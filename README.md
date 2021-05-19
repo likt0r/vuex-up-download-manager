@@ -1,0 +1,1 @@
+# vuex-up-download-manager
